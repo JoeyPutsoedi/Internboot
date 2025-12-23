@@ -1,6 +1,9 @@
+@font-face {
+  font-family: San Fransisco;
+  src: url("Regular.otf");
+}
 * {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: San Fransisco;
   margin: 0;
   padding: 0;
 }
